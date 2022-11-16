@@ -25,6 +25,7 @@ class HomePageController extends GetxController {
         update();
       }
       dataFetched = true;
+      update();
     }
   }
 }
